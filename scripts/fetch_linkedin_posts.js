@@ -11,12 +11,15 @@ const experts = [
   { name: 'Rosie Sherry',        slug: 'rosie-sherry',        url: 'https://www.linkedin.com/in/rosiesherry' },
   { name: 'Jono Bacon',          slug: 'jono-bacon',          url: 'https://www.linkedin.com/in/jonobacon' },
   { name: 'Erica Kuhl',          slug: 'erica-kuhl',          url: 'https://www.linkedin.com/in/ericakuhl' },
-  { name: 'Derek Anderson',      slug: 'derek-anderson',      url: 'https://www.linkedin.com/in/derekanderson' },
-  { name: 'Steph Smith',         slug: 'steph-smith',         url: 'https://www.linkedin.com/in/stephsmithio' },
-  { name: 'Whit Rhoda',          slug: 'whit-rhoda',          url: 'https://www.linkedin.com/in/whitrhoda' },
-  { name: 'Megan Demenna',       slug: 'megan-demenna',       url: 'https://www.linkedin.com/in/megandemenna' },
-  { name: 'Jacob Peters',        slug: 'jacob-peters',        url: 'https://www.linkedin.com/in/jacobpeters' },
-  { name: 'Mack Redden',         slug: 'mack-redden',         url: 'https://www.linkedin.com/in/mackredden' },
+  { name: 'Derek Anderson',      slug: 'derek-anderson',      url: 'https://www.linkedin.com/in/derekmanderson/' },
+  { name: 'Steph Smith',         slug: 'steph-smith',         url: 'https://www.linkedin.com/in/stephaniesmith93/' },
+  { name: 'Whitney Rothe',       slug: 'whitney-rothe',       url: 'https://www.linkedin.com/in/wkrothe/' },
+  { name: 'Megan Demenna',       slug: 'megan-demenna',       url: 'https://www.linkedin.com/in/socialmeagan/' },
+  { name: 'Mark Redden',         slug: 'mark-redden',         url: 'https://www.linkedin.com/in/markredden/' },
+  // Replacing Jacob Peters (too few posts) with high-signal CLG practitioners
+  { name: 'Lloyed Lobo',         slug: 'lloyed-lobo',         url: 'https://www.linkedin.com/in/lloyed/' },
+  { name: 'Patrick Woods',       slug: 'patrick-woods',       url: 'https://www.linkedin.com/in/patrickjwoods/' },
+  { name: 'Carrie Melissa Jones',slug: 'carrie-melissa-jones',url: 'https://www.linkedin.com/in/carriemjones/' },
 ];
 
 async function runActor(profileUrl) {
