@@ -13,6 +13,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/davidspinks
 - **Why him:** Wrote the definitive book on community-led business. Founded CMX Hub which trained thousands of community managers and produced the SPACES model (Support, Product, Acquisition, Contribution, Engagement, Success). Deeply grounded in both the craft and the ROI argument for community.
 - **Focus:** Community strategy frameworks, measuring community value, community-led growth playbooks
+- **Content dates:** LinkedIn posts Dec 2015 – Jun 2026 · YouTube transcripts collected Jun 2026
 - **Data collected:**
   - `linkedin-posts/david-spinks.md` — 7 posts with full article content
   - `youtube-transcripts/david-spinks-cmx-remo-daily.md` — Remo Daily interview, defines community — https://www.youtube.com/watch?v=o2-3GYvmLyA
@@ -26,6 +27,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/rosiesherry
 - **Why her:** One of the most respected practitioners in B2B community building. Built and ran the Indie Hackers community at scale. Believes in community as a core business function, not a marketing add-on.
 - **Focus:** Community empowerment, indie hacker communities, community as product, bottom-up growth
+- **Content dates:** LinkedIn posts Jan 2024 – Jun 2026 · YouTube transcripts collected Jun 2026
 - **Data collected:**
   - `linkedin-posts/rosie-sherry.md` — 13 posts with full article content
   - `youtube-transcripts/rosie-sherry-bootstrapped-founder-podcast.md` — Bootstrapped Founder podcast — https://www.youtube.com/watch?v=6Jn1gGqee3I
@@ -40,6 +42,7 @@
 - **Website:** https://www.jonobacon.com
 - **Why him:** One of the most experienced open-source and enterprise community builders alive. Built the Ubuntu community from scratch. Advises Fortune 500s on community strategy.
 - **Focus:** Community architecture, incentive design, open-source community models applied to B2B SaaS
+- **Content dates:** LinkedIn posts Jan 2015 – Jun 2026 · YouTube transcripts collected Jun 2026
 - **Data collected:**
   - `linkedin-posts/jono-bacon.md` — 14 posts with full article content
   - `youtube-transcripts/jono-bacon-fast-leader-podcast.md` — Fast Leader Podcast — https://www.youtube.com/watch?v=0PX7ULEa7d8
@@ -52,6 +55,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/ericakuhl
 - **Why her:** Built the single most studied B2B community in the world from a broken website given to her as employee #176 at Salesforce. The Trailblazer Community became a category-defining example of community-led growth.
 - **Focus:** Enterprise community at scale, community as customer retention, community-led customer success
+- **Content dates:** LinkedIn posts Dec 2019 – Jun 2026 · YouTube transcripts collected Jun 2026
 - **Data collected:**
   - `linkedin-posts/erica-kuhl.md` — 10 posts with full article content
   - `youtube-transcripts/erica-kuhl-salesforce-community-unchurned.md` — Unchurned podcast — https://www.youtube.com/watch?v=AuoQno2yGcY
@@ -63,6 +67,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/brianoblinger
 - **Why him:** One of the most prolific LinkedIn voices on community strategy. Posts daily tactical content on community-led growth, AI in community, and customer success through community. Deep operator experience across SaaS companies.
 - **Focus:** Community strategy, AI-powered communities, customer success through community, community ROI
+- **Content dates:** LinkedIn posts Mar 2017 – Jun 2026
 - **Data collected:**
   - `linkedin-posts/brian-oblinger.md` — 18 posts with full article content
   - `other/medium/brian-oblinger.md` — Medium articles — https://medium.com/@brianoblinger
@@ -74,6 +79,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/jakemckee
 - **Why him:** Built the LEGO community (one of the most successful brand communities ever), pioneering co-creation with customers. One of the earliest enterprise community builders with 20+ years of practitioner experience.
 - **Focus:** Brand community building, co-creation, enterprise community strategy, community measurement
+- **Content dates:** LinkedIn posts Mar 2026 – Jun 2026
 - **Data collected:**
   - `linkedin-posts/jake-mckee.md` — 13 posts with full article content
   - `other/medium/jake-mckee.md` — Medium articles — https://medium.com/@jakemckee
@@ -85,6 +91,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/ginabianchini
 - **Why her:** Built two community platforms at scale — Ning (90M users) and Mighty Networks. Coined "cultural software" and the concept of community-as-business-model. One of the most vocal advocates for community-led growth as a sustainable alternative to ad-based models.
 - **Focus:** Community business models, cultural software, membership communities, creator economy
+- **Content dates:** LinkedIn posts Jul 2025 – Jan 2026
 - **Data collected:**
   - `linkedin-posts/gina-bianchini.md` — 10 posts with full article content
 
@@ -95,6 +102,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/patrickjwoods
 - **Why him:** Built Orbit, the leading community CRM for developer-focused B2B SaaS companies. Creator of the Orbit Model — a framework replacing the traditional funnel with a community-centric view of customer relationships.
 - **Focus:** Community CRM, the Orbit Model, developer communities, community metrics and measurement
+- **Content dates:** LinkedIn posts Feb 2015 – May 2021
 - **Data collected:**
   - `linkedin-posts/patrick-woods.md` — 8 posts with full article content
   - `other/medium/patrick-woods.md` — Medium articles — https://medium.com/@patrickjwoods
@@ -106,6 +114,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/wkrothe
 - **Why her:** Active practitioner sharing tactical, on-the-ground experience running B2B SaaS communities. High signal-to-noise ratio on LinkedIn — posts operational content on community programs, member engagement, and community-led marketing.
 - **Focus:** B2B community operations, member engagement, community-led marketing
+- **Content dates:** LinkedIn posts May 2015 – May 2026
 - **Data collected:**
   - `linkedin-posts/whitney-rothe.md` — 11 posts with full article content
 
@@ -116,6 +125,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/socialmeagan
 - **Why her:** Strong voice on the intersection of community building and social media strategy in B2B contexts. Featured in the Gone Remote panel on remote-first community leadership.
 - **Focus:** Remote community building, social media + community integration, B2B community programs
+- **Content dates:** LinkedIn posts Jan 2021 – Jun 2024 · YouTube transcripts collected Jun 2026
 - **Data collected:**
   - `linkedin-posts/megan-demenna.md` — 10 posts with full article content
   - `youtube-transcripts/gone-remote-community-social-media-experts.md` — Gone Remote panel — https://www.youtube.com/watch?v=NHSpL3OPQJM
@@ -127,6 +137,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/danigrant
 - **Why her:** Investor perspective on community as a moat — writes about why communities create durable competitive advantages in B2B SaaS. Brings a sharp product and investment lens to community-led growth that most practitioners miss.
 - **Focus:** Community as competitive moat, investor perspective on CLG, product + community intersection
+- **Content dates:** LinkedIn posts Oct 2024 – Jan 2026
 - **Data collected:**
   - `linkedin-posts/dani-grant.md` — 7 posts with full article content
 
