@@ -17,7 +17,7 @@
   - `linkedin-posts/david-spinks.md` — 7 posts with full article content
   - `youtube-transcripts/david-spinks-cmx-remo-daily.md` — Remo Daily interview, defines community — https://www.youtube.com/watch?v=o2-3GYvmLyA
   - `youtube-transcripts/david-spinks-cmx-community-platform-orbit.md` — Community platform strategy — https://www.youtube.com/watch?v=UWW9DXlt6nM
-  - `other/medium/david-spinks.md` — Medium articles
+  - `other/medium/david-spinks.md` — Medium articles — https://medium.com/@davidspinks
 
 ---
 
@@ -30,7 +30,7 @@
   - `linkedin-posts/rosie-sherry.md` — 13 posts with full article content
   - `youtube-transcripts/rosie-sherry-bootstrapped-founder-podcast.md` — Bootstrapped Founder podcast — https://www.youtube.com/watch?v=6Jn1gGqee3I
   - `youtube-transcripts/rosie-sherry-indie-bites-podcast.md` — Indie Bites podcast — https://www.youtube.com/watch?v=xhp7qy5dWWc
-  - `other/medium/rosie-sherry.md` — Medium articles
+  - `other/medium/rosie-sherry.md` — Medium articles — https://medium.com/@rosiesherry
 
 ---
 
@@ -43,7 +43,7 @@
 - **Data collected:**
   - `linkedin-posts/jono-bacon.md` — 14 posts with full article content
   - `youtube-transcripts/jono-bacon-fast-leader-podcast.md` — Fast Leader Podcast — https://www.youtube.com/watch?v=0PX7ULEa7d8
-  - `other/medium/jono-bacon.md` — Medium articles
+  - `other/medium/jono-bacon.md` — Medium articles — https://medium.com/@jonobacon
 
 ---
 
@@ -65,7 +65,7 @@
 - **Focus:** Community strategy, AI-powered communities, customer success through community, community ROI
 - **Data collected:**
   - `linkedin-posts/brian-oblinger.md` — 18 posts with full article content
-  - `other/medium/brian-oblinger.md` — Medium articles
+  - `other/medium/brian-oblinger.md` — Medium articles — https://medium.com/@brianoblinger
 
 ---
 
@@ -76,6 +76,7 @@
 - **Focus:** Brand community building, co-creation, enterprise community strategy, community measurement
 - **Data collected:**
   - `linkedin-posts/jake-mckee.md` — 13 posts with full article content
+  - `other/medium/jake-mckee.md` — Medium articles — https://medium.com/@jakemckee
 
 ---
 
@@ -96,7 +97,7 @@
 - **Focus:** Community CRM, the Orbit Model, developer communities, community metrics and measurement
 - **Data collected:**
   - `linkedin-posts/patrick-woods.md` — 8 posts with full article content
-  - `other/medium/patrick-woods.md` — Medium articles
+  - `other/medium/patrick-woods.md` — Medium articles — https://medium.com/@patrickjwoods
 
 ---
 
@@ -141,13 +142,13 @@
 - `youtube-transcripts/community-as-party-framework-short-clip.md` — Community design philosophy clip — https://www.youtube.com/watch?v=k4wkiqpdQ_c
 
 ### Medium Topic Tags & Publications
-- `other/medium/tag-community-led-growth.md` — Top articles tagged community-led-growth
-- `other/medium/tag-community-building.md` — Top articles tagged community-building
-- `other/medium/tag-b2b-saas.md` — Top articles tagged b2b-saas
-- `other/medium/tag-developer-community.md` — Top articles tagged developer-community
-- `other/medium/tag-online-community.md` — Top articles tagged online-community
-- `other/medium/pub-better-marketing.md` — Better Marketing publication
-- `other/medium/pub-the-startup.md` — The Startup (SWLH) publication
+- `other/medium/tag-community-led-growth.md` — Top articles tagged community-led-growth — https://medium.com/tag/community-led-growth
+- `other/medium/tag-community-building.md` — Top articles tagged community-building — https://medium.com/tag/community-building
+- `other/medium/tag-b2b-saas.md` — Top articles tagged b2b-saas — https://medium.com/tag/b2b-saas
+- `other/medium/tag-developer-community.md` — Top articles tagged developer-community — https://medium.com/tag/developer-community
+- `other/medium/tag-online-community.md` — Top articles tagged online-community — https://medium.com/tag/online-community
+- `other/medium/pub-better-marketing.md` — Better Marketing publication — https://medium.com/better-marketing
+- `other/medium/pub-the-startup.md` — The Startup (SWLH) publication — https://medium.com/swlh
 
 ---
 
