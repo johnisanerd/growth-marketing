@@ -161,6 +161,7 @@ After going through all collected content, 7 recurring themes emerged across pra
 | Tool | Purpose |
 |------|---------|
 | **Claude Code** | AI coding assistant used to write all scripts, debug API integrations, and manage the repository end-to-end |
+| **Cursor Agent** | AI-powered IDE used for code editing, script refinement, and repository navigation |
 | Node.js | All automation scripts |
 | Supadata API | YouTube transcript extraction |
 | Apify (`automation-lab~linkedin-post-scraper`) | LinkedIn post metadata scraping |
