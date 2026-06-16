@@ -14,6 +14,21 @@ This repository aggregates and organizes high-signal content from 11 top practit
 
 ---
 
+## Why Community-Led Growth for B2B SaaS?
+
+I chose this specific topic because it directly impacts the growth architecture I am currently building for my own platforms: **Mosqify** (a B2B2C SaaS and IoT ecosystem for organization management) and **Apto** ([apto.web.id](https://www.apto.web.id)), an AI-powered resume tailoring and interview preparation platform.
+
+In my experience building these products and managing digital growth strategies, I've seen firsthand that community is the most vital, yet most frequently misunderstood, pillar of modern marketing. Traditional paid acquisition channels are becoming increasingly saturated.
+
+Whether it is scaling organizational adoption for Mosqify or building organic word-of-mouth among job seekers for Apto, a well-executed community-led growth (CLG) strategy fundamentally shifts software economics:
+* **Lowers Customer Acquisition Cost (CAC):** It turns our power users into an organic, self-sustaining distribution engine.
+* **Drives Non-Linear Retention:** Users stick around for the shared knowledge, the ecosystem, and the network—making the software incredibly sticky beyond just its base utility.
+* **Accelerates the Product Loop:** Active community engagement acts as a continuous, high-fidelity feedback loop that directly informs my engineering and QA priorities.
+
+This repository serves as a direct research pipeline, extracting the playbooks of 10 elite operators who treat community as a measurable, engineering-driven growth engine rather than just an afterthought.
+
+---
+
 ## How I Built This (Tools & Steps)
 
 ### Step 1 — Identify the Experts
