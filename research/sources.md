@@ -15,8 +15,8 @@
 - **Focus:** Community strategy frameworks, measuring community value, community-led growth playbooks
 - **Data collected:**
   - `linkedin-posts/david-spinks.md` — 7 posts with full article content
-  - `youtube-transcripts/david-spinks-cmx-remo-daily.md` — Remo Daily interview, defines community
-  - `youtube-transcripts/david-spinks-cmx-community-platform-orbit.md` — Community platform strategy
+  - `youtube-transcripts/david-spinks-cmx-remo-daily.md` — Remo Daily interview, defines community — https://www.youtube.com/watch?v=o2-3GYvmLyA
+  - `youtube-transcripts/david-spinks-cmx-community-platform-orbit.md` — Community platform strategy — https://www.youtube.com/watch?v=UWW9DXlt6nM
   - `other/medium/david-spinks.md` — Medium articles
 
 ---
@@ -28,8 +28,8 @@
 - **Focus:** Community empowerment, indie hacker communities, community as product, bottom-up growth
 - **Data collected:**
   - `linkedin-posts/rosie-sherry.md` — 13 posts with full article content
-  - `youtube-transcripts/rosie-sherry-bootstrapped-founder-podcast.md` — Bootstrapped Founder podcast
-  - `youtube-transcripts/rosie-sherry-indie-bites-podcast.md` — Indie Bites podcast
+  - `youtube-transcripts/rosie-sherry-bootstrapped-founder-podcast.md` — Bootstrapped Founder podcast — https://www.youtube.com/watch?v=6Jn1gGqee3I
+  - `youtube-transcripts/rosie-sherry-indie-bites-podcast.md` — Indie Bites podcast — https://www.youtube.com/watch?v=xhp7qy5dWWc
   - `other/medium/rosie-sherry.md` — Medium articles
 
 ---
@@ -42,7 +42,7 @@
 - **Focus:** Community architecture, incentive design, open-source community models applied to B2B SaaS
 - **Data collected:**
   - `linkedin-posts/jono-bacon.md` — 14 posts with full article content
-  - `youtube-transcripts/jono-bacon-fast-leader-podcast.md` — Fast Leader Podcast
+  - `youtube-transcripts/jono-bacon-fast-leader-podcast.md` — Fast Leader Podcast — https://www.youtube.com/watch?v=0PX7ULEa7d8
   - `other/medium/jono-bacon.md` — Medium articles
 
 ---
@@ -54,7 +54,7 @@
 - **Focus:** Enterprise community at scale, community as customer retention, community-led customer success
 - **Data collected:**
   - `linkedin-posts/erica-kuhl.md` — 10 posts with full article content
-  - `youtube-transcripts/erica-kuhl-salesforce-community-unchurned.md` — Unchurned podcast
+  - `youtube-transcripts/erica-kuhl-salesforce-community-unchurned.md` — Unchurned podcast — https://www.youtube.com/watch?v=AuoQno2yGcY
 
 ---
 
@@ -117,7 +117,7 @@
 - **Focus:** Remote community building, social media + community integration, B2B community programs
 - **Data collected:**
   - `linkedin-posts/megan-demenna.md` — 10 posts with full article content
-  - `youtube-transcripts/gone-remote-community-social-media-experts.md` — Gone Remote panel
+  - `youtube-transcripts/gone-remote-community-social-media-experts.md` — Gone Remote panel — https://www.youtube.com/watch?v=NHSpL3OPQJM
 
 ---
 
@@ -134,11 +134,11 @@
 ## Additional Sources
 
 ### YouTube Transcripts (non-expert-specific)
-- `youtube-transcripts/comsort-founders-community-is-new-moat.md` — Jacob Peters & Mack Redden (Comsort), Sync Up podcast
-- `youtube-transcripts/whit-rhoda-insight-partners-community-led-growth.md` — Insight Partners CLG Scale-Up Guide
-- `youtube-transcripts/steph-smith-makerpad-community-qa.md` — Steph Smith (The Hustle), Makerpad Q&A
-- `youtube-transcripts/derek-anderson-startup-grind-c2c-podcast.md` — Derek Anderson (Startup Grind), C2C Podcast
-- `youtube-transcripts/community-as-party-framework-short-clip.md` — Community design philosophy clip
+- `youtube-transcripts/comsort-founders-community-is-new-moat.md` — Jacob Peters & Mack Redden (Comsort), Sync Up podcast — https://www.youtube.com/watch?v=ODliamqOg04
+- `youtube-transcripts/whit-rhoda-insight-partners-community-led-growth.md` — Insight Partners CLG Scale-Up Guide — https://www.youtube.com/watch?v=vEhM3Nrsz9s
+- `youtube-transcripts/steph-smith-makerpad-community-qa.md` — Steph Smith (The Hustle), Makerpad Q&A — https://www.youtube.com/watch?v=-2hUPbi-sW4A
+- `youtube-transcripts/derek-anderson-startup-grind-c2c-podcast.md` — Derek Anderson (Startup Grind), C2C Podcast — https://www.youtube.com/watch?v=qquI98xoqXw
+- `youtube-transcripts/community-as-party-framework-short-clip.md` — Community design philosophy clip — https://www.youtube.com/watch?v=k4wkiqpdQ_c
 
 ### Medium Topic Tags & Publications
 - `other/medium/tag-community-led-growth.md` — Top articles tagged community-led-growth
