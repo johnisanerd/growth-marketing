@@ -71,7 +71,8 @@ I selected 11 practitioners who have *actually built* B2B communities at scale �
 
 ```
 research/
-├── sources.md                  # Full source list with links
+├── sources.md                  # Full source list with links, dates, annotations
+├── notes.md                    # Key CLG patterns spotted across all content
 ├── linkedin-posts/             # LinkedIn posts by expert (11 files)
 ├── youtube-transcripts/        # YouTube transcripts (12 files)
 └── other/
