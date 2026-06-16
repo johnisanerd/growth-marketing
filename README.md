@@ -140,6 +140,22 @@ scripts/
 
 ---
 
+## Key Patterns Found
+
+After going through all collected content, 7 recurring themes emerged across practitioners — documented in full in [`research/notes.md`](research/notes.md).
+
+| # | Pattern | Core Insight | Key Sources |
+|---|---------|-------------|-------------|
+| 1 | Community is architecture | It's an operating model, not a marketing channel | Spinks, Bianchini, Bacon |
+| 2 | Motivation before outcomes | Design for why members participate, not just what you need | Spinks, Bacon, McKee |
+| 3 | Orbit over funnel | Track member gravity/closeness, not pipeline stage | Patrick Woods |
+| 4 | Retention is the ROI metric | Community members churn less — that's the business case | Kuhl (Salesforce 17M), Oblinger |
+| 5 | Niche beats broad | Hyper-specific communities outperform generic ones | Sherry, Bianchini, Bacon |
+| 6 | Host mindset | Engineer member-to-member connections, not brand-to-member | Spinks, Rothe, Demenna |
+| 7 | AI amplifies, doesn't replace | AI scales operations; human trust is the moat | Oblinger, Bianchini, Grant |
+
+---
+
 ## Tech Stack
 
 | Tool | Purpose |
