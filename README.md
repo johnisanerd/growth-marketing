@@ -16,7 +16,7 @@ This repository aggregates and organizes high-signal content from 11 top practit
 
 ## Why Community-Led Growth for B2B SaaS?
 
-I chose this specific topic because it directly impacts the growth architecture I am currently building for my own platforms: **Mosqify** (a B2B2C SaaS and IoT ecosystem for organization management) and **Apto** ([apto.web.id](https://www.apto.web.id)), an AI-powered resume tailoring and interview preparation platform.
+I chose this specific topic because it directly impacts the growth architecture I am currently building for my own platforms: **Mosqify** ([mosqify.id](https://www.mosqify.id)) (a B2B2C SaaS and IoT ecosystem for organization management) and **Apto** ([apto.web.id](https://www.apto.web.id)), an AI-powered resume tailoring and interview preparation platform.
 
 In my experience building these products and managing digital growth strategies, I've seen firsthand that community is the most vital, yet most frequently misunderstood, pillar of modern marketing. Traditional paid acquisition channels are becoming increasingly saturated.
 
@@ -30,6 +30,8 @@ This repository serves as a direct research pipeline, extracting the playbooks o
 ---
 
 ## How I Built This (Tools & Steps)
+
+All scripts were written and debugged using **[Claude Code](https://claude.ai/code)** (Anthropic's AI coding assistant) as the primary development tool — from API integration to data parsing and repository management.
 
 ### Step 1 — Identify the Experts
 
@@ -141,6 +143,7 @@ scripts/
 
 | Tool | Purpose |
 |------|---------|
+| **Claude Code** | AI coding assistant used to write all scripts, debug API integrations, and manage the repository end-to-end |
 | Node.js | All automation scripts |
 | Supadata API | YouTube transcript extraction |
 | Apify (`automation-lab~linkedin-post-scraper`) | LinkedIn post metadata scraping |
