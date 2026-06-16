@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** xhp7qy5dWWc
+**Title:** Rosie Sherry — Indie Bites Podcast
 **URL:** https://www.youtube.com/watch?v=xhp7qy5dWWc
 **Lang:** en
 

@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** ODliamqOg04
+**Title:** Comsort Founders (Jacob Peters **Video ID:** ODliamqOg04 Mack Redden) — Community Is the New Moat
 **URL:** https://www.youtube.com/watch?v=ODliamqOg04
 **Lang:** en
 

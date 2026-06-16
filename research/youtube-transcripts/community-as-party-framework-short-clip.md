@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** k4wkiqpdQ_c
+**Title:** Community as Party Framework — Short Clip
 **URL:** https://www.youtube.com/watch?v=k4wkiqpdQ_c
 **Lang:** en
 

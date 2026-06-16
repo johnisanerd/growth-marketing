@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** qquI98xoqXw
+**Title:** Derek Anderson (Startup Grind) — C2C Podcast
 **URL:** https://www.youtube.com/watch?v=qquI98xoqXw
 **Lang:** en
 

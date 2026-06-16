@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** o2-3GYvmLyA
+**Title:** David Spinks (CMX) — Remo Daily Interview
 **URL:** https://www.youtube.com/watch?v=o2-3GYvmLyA
 **Lang:** en
 

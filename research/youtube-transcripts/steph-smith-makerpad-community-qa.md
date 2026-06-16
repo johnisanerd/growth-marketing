@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** -2hUPbi-sW4
+**Title:** Steph Smith — Makerpad Community Q**Video ID:** -2hUPbi-sW4A
 **URL:** https://www.youtube.com/watch?v=-2hUPbi-sW4
 **Lang:** en
 

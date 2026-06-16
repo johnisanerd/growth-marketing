@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** NHSpL3OPQJM
+**Title:** Gone Remote — Community **Video ID:** NHSpL3OPQJM Social Media Experts Panel
 **URL:** https://www.youtube.com/watch?v=NHSpL3OPQJM
 **Lang:** en
 

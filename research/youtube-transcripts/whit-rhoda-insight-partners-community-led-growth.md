@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** vEhM3Nrsz9s
+**Title:** Whit Rhoda **Video ID:** vEhM3Nrsz9s Lucia Manzo — Insight Partners Community-Led Growth Guide
 **URL:** https://www.youtube.com/watch?v=vEhM3Nrsz9s
 **Lang:** en
 

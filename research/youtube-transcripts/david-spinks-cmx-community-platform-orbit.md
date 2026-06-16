@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** UWW9DXlt6nM
+**Title:** David Spinks (CMX) — Community Platform Discussion
 **URL:** https://www.youtube.com/watch?v=UWW9DXlt6nM
 **Lang:** en
 

@@ -1,6 +1,6 @@
 # YouTube Transcript
 
-**Video ID:** 6Jn1gGqee3I
+**Title:** Rosie Sherry — Bootstrapped Founder Podcast
 **URL:** https://www.youtube.com/watch?v=6Jn1gGqee3I
 **Lang:** en
 
