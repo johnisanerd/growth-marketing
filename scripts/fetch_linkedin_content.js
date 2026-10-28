@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const APIFY_TOKEN = process.env.APIFY_TOKEN || '';
-const ACTOR_ID = 'scrapemint~linkedin-pulse-articles-scraper';
+const ACTOR_ID = 'johnvc~linkedin-posts-api';
 const POSTS_DIR = path.join(__dirname, '..', 'research', 'linkedin-posts');
 
 async function fetchArticleContent(urls) {
@@ -11,11 +11,17 @@ async function fetchArticleContent(urls) {
     {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ articleUrls: urls }),
+      body: JSON.stringify({ postUrls: urls }),
     }
   );
   if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
-  return res.json();
+  const items = await res.json();
+  // Map postUrl/text to the key/bodyText fields used below
+  return items.map(item => ({
+    ...item,
+    key: (item.postUrl || '').replace(/\/$/, '').split('/').pop(),
+    bodyText: item.text,
+  }));
 }
 
 function extractPostUrls(mdContent) {
